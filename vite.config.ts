@@ -12,4 +12,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/drink-water-reminder/",
 });
